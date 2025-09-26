@@ -25,4 +25,4 @@ This is the classic hand game where:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<sakshii-sj07>/stonepaperscissorgame.git
+   git clone https://github.com/sakshii-sj07/StonePaperScissorGame.git
